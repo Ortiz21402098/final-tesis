@@ -1,2 +1,0 @@
-# final-tesis
-tesis final
